@@ -10,5 +10,9 @@ Next you can update your site name, avatar and other options using the _config.y
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
 ```sql
-SELECT * FROM TABLE:
+SELECT * FROM TABLE;
+
+create table super_tabelka as
+select jakies_pole, jakies_inne_pole
+from taka_mniej_super_tabelka;
 ``` 
